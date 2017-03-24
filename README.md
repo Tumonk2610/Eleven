@@ -1,10 +1,10 @@
-#Eleven Player
+# Eleven Player
 
 Eleven Player is a simple powerful video player.
 
 App Store:[https://itunes.apple.com/cn/app/elevenplayer/id1033773648](https://itunes.apple.com/cn/app/elevenplayer/id1033773648)
 
-##LICENSE
+## LICENSE
 
 Copyright (c) 2015 coderyi.all rights reserved.
 
@@ -13,7 +13,7 @@ Eleven no longer use MIT license，now use [CC Attribution-NonCommercial](http:/
 
 And you can not upload it to the App Store.
 
-##Features
+## Features
 
 Support m4v, wmv, 3gp, mp4, mov, avi, mkv, mpeg, mpg, flv, vob format
 
@@ -22,9 +22,9 @@ You can transfer video files via itunes or wifi
 Enter any HTTP, RTSP, RTMP, RTP address play network streaming or live
 
 
-##Requirements
+## Requirements
 iOS7.0+,iPhone and iPad,Xcode6.3
-##Open Source Components
+## Open Source Components
 
 [ffmpeg](https://github.com/FFmpeg/FFmpeg),version 2.7.2
 
@@ -51,7 +51,7 @@ a simple way to use pull-to-refresh.
 
 
 
-##Contact
+## Contact
 
 
 blog:[https://github.com/coderyi/blog](https://github.com/coderyi/blog)
@@ -61,7 +61,7 @@ GitHub:[https://github.com/coderyi](https://github.com/coderyi)
 email:coderyi@foxmail.com
 
 
-##Reference 
+## Reference 
 
 [iOS配置FFmpeg框架](http://cnbin.github.io/blog/2015/05/19/iospei-zhi-ffmpegkuang-jia/)
 
@@ -69,7 +69,7 @@ email:coderyi@foxmail.com
 
 [Vitamio测试网络视频地址](https://www.vitamio.org/docs/Basic/2013/0508/14.html)
 
-##App Preview
+## App Preview
 
 <img src="https://raw.githubusercontent.com/coderyi/Eleven/master/Documents/images/e-6p-1.png" width="320" height="570">
 
